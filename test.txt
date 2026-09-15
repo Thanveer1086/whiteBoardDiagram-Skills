@@ -1,0 +1,1 @@
+A universal AI skill that teaches coding agents to generate professional hand-drawn whiteboard diagrams.
