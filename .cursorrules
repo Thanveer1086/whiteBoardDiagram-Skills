@@ -1,0 +1,13 @@
+# Whiteboard Diagram Skill
+
+This project contains a universal skill for generating hand-drawn whiteboard diagrams.
+
+When asked to create any whiteboard, diagram, hand-drawn board, sketch, or visual architecture:
+
+1. Read SKILL.md for comprehensive instructions on generating hand-drawn diagrams
+2. Default output: Mermaid with `look: handDrawn` (works everywhere)
+3. Alternative outputs: SVG (standalone), Excalidraw JSON (editable), HTML (interactive)
+4. Always apply: sketchy borders, pastel color fills, icons/emojis, numbered sections, connecting arrows
+5. Use the 6 curated pastel palettes from SKILL.md
+6. Follow the layout patterns: Grid, Flow, Layers, Kanban, Mind Map, Comparison
+7. Check references/ directory for extended color palettes, layout patterns, and code examples
