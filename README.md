@@ -1,5 +1,9 @@
 # 🎨 Whiteboard Diagram Skill
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/YOUR_USERNAME/whiteBoardDiagram-Skills/pulls)
+[![Agents](https://img.shields.io/badge/Agents-Claude%20%7C%20Antigravity%20%7C%20Cursor%20%7C%20Windsurf%20%7C%20Copilot-blue.svg)](#-installation)
+
 > **A universal AI skill that teaches coding agents to generate professional hand-drawn whiteboard diagrams.**
 
 Turn any idea into a beautiful, sketchy, hand-drawn whiteboard — like someone drew it with markers on a real whiteboard. Works with **Claude Code**, **Antigravity**, **Cursor**, **Windsurf**, **GitHub Copilot**, and any AI coding agent.
